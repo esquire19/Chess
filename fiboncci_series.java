@@ -19,6 +19,6 @@ public class fiboncci_series {
 			j=k;
 			System.out.println(k);
 		}
-		sc.close();
+		
 	}
 }
