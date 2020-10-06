@@ -12,7 +12,7 @@ public class fiboncci_series {
 		System.out.println(i);
 		System.out.println(j);
 		 
-		for(int a=0;a<n;a++)
+		for(int a=0;a<n;a--)
 		{
 			k=i+j;
 			i=j;
