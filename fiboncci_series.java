@@ -10,7 +10,7 @@ public class fiboncci_series {
 		int n=sc.nextInt();
 		int i=0,j=1,k=0;
 		System.out.println(i);
-		System.out.println(j);
+		System.out.println(j);//print second var
 		 
 		for(int a=0;a<n;a++)
 		{
